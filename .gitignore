@@ -1,2 +1,11 @@
 *.class
 *.log
+.idea
+target
+project/boot/
+project/plugins/project/
+*.iml
+*.ipr
+*.iws
+out
+.DS_Store
