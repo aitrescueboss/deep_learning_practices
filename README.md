@@ -1,0 +1,2 @@
+# deep_learning_practices
+「ゼロから作るDeepLearning」のScalaによる実装の練習
